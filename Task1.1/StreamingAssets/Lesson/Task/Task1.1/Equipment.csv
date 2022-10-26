@@ -1,0 +1,13 @@
+id,设备名称,路径
+1,泵站情况,mainscene11/equipments/泵站情况；
+2,签到表,mainscene11/equipments/签到表；
+3,员工,mainscene11/equipments/员工；
+4,工作日志,mainscene11/equipments/工作日志；
+5,微波炉,mainscene11/equipments/微波炉；
+6,液位计,mainscene11/equipments/液位计；
+7,格栅,mainscene11/equipments/格栅；
+8,闸门,mainscene11/equipments/闸门；
+9,雨量钟,mainscene11/equipments/雨量钟；
+10,水泵,mainscene11/equipments/水泵；
+11,流量仪,mainscene11/equipments/流量仪；
+12,剩水泵,mainscene11/equipments/剩水泵；

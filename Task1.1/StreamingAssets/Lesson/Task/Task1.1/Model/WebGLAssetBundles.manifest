@@ -1,0 +1,439 @@
+ManifestFileVersion: 0
+CRC: 295630430
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 017.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: 008.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: cube.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: 001.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: 005.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: portals.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: 004.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: 018.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: 002.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: room251.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: 009.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: 019.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: 006.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: 012.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: 013.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: scenemodel.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: 007.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: portals251.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: 020.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: 014.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: 016.unity3d
+      Dependencies: {}
+    Info_21:
+      Name: 003.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: 015.unity3d
+      Dependencies: {}
+    Info_23:
+      Name: room13.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: 011.unity3d
+      Dependencies: {}
+    Info_25:
+      Name: room12.unity3d
+      Dependencies: {}
+    Info_26:
+      Name: room11.unity3d
+      Dependencies: {}
+    Info_27:
+      Name: portals11.unity3d
+      Dependencies: {}
+    Info_28:
+      Name: portals14.unity3d
+      Dependencies: {}
+    Info_29:
+      Name: room14.unity3d
+      Dependencies: {}
+    Info_30:
+      Name: room24.unity3d
+      Dependencies: {}
+    Info_31:
+      Name: portals24.unity3d
+      Dependencies: {}
+    Info_32:
+      Name: room252.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: portals252.unity3d
+      Dependencies: {}
+    Info_34:
+      Name: portals211.unity3d
+      Dependencies: {}
+    Info_35:
+      Name: room211.unity3d
+      Dependencies: {}
+    Info_36:
+      Name: portals213.unity3d
+      Dependencies: {}
+    Info_37:
+      Name: room213.unity3d
+      Dependencies: {}
+    Info_38:
+      Name: room212.unity3d
+      Dependencies: {}
+    Info_39:
+      Name: portals212.unity3d
+      Dependencies: {}
+    Info_40:
+      Name: portals22.unity3d
+      Dependencies: {}
+    Info_41:
+      Name: room22.unity3d
+      Dependencies: {}
+    Info_42:
+      Name: room23.unity3d
+      Dependencies: {}
+    Info_43:
+      Name: portals23.unity3d
+      Dependencies: {}
+    Info_44:
+      Name: portals351.unity3d
+      Dependencies: {}
+    Info_45:
+      Name: room351downstairs.unity3d
+      Dependencies: {}
+    Info_46:
+      Name: room351upstairs.unity3d
+      Dependencies: {}
+    Info_47:
+      Name: portals352.unity3d
+      Dependencies: {}
+    Info_48:
+      Name: room352downstairs.unity3d
+      Dependencies: {}
+    Info_49:
+      Name: room352upstairs.unity3d
+      Dependencies: {}
+    Info_50:
+      Name: room26.unity3d
+      Dependencies: {}
+    Info_51:
+      Name: mainscene.unity3d
+      Dependencies: {}
+    Info_52:
+      Name: portals26.unity3d
+      Dependencies: {}
+    Info_53:
+      Name: portals33.unity3d
+      Dependencies: {}
+    Info_54:
+      Name: mainscene33.unity3d
+      Dependencies: {}
+    Info_55:
+      Name: room33.unity3d
+      Dependencies: {}
+    Info_56:
+      Name: portals34.unity3d
+      Dependencies: {}
+    Info_57:
+      Name: room34.unity3d
+      Dependencies: {}
+    Info_58:
+      Name: portals31.unity3d
+      Dependencies: {}
+    Info_59:
+      Name: room31.unity3d
+      Dependencies: {}
+    Info_60:
+      Name: portals32.unity3d
+      Dependencies: {}
+    Info_61:
+      Name: room32.unity3d
+      Dependencies: {}
+    Info_62:
+      Name: mainscene36.unity3d
+      Dependencies: {}
+    Info_63:
+      Name: portals36.unity3d
+      Dependencies: {}
+    Info_64:
+      Name: room36.unity3d
+      Dependencies: {}
+    Info_65:
+      Name: mainscene41.unity3d
+      Dependencies: {}
+    Info_66:
+      Name: portals41.unity3d
+      Dependencies: {}
+    Info_67:
+      Name: room41.unity3d
+      Dependencies: {}
+    Info_68:
+      Name: mainscene42.unity3d
+      Dependencies: {}
+    Info_69:
+      Name: portals42.unity3d
+      Dependencies: {}
+    Info_70:
+      Name: portals43.unity3d
+      Dependencies: {}
+    Info_71:
+      Name: room43.unity3d
+      Dependencies: {}
+    Info_72:
+      Name: mainscene44.unity3d
+      Dependencies: {}
+    Info_73:
+      Name: portals44.unity3d
+      Dependencies: {}
+    Info_74:
+      Name: mainscene45.unity3d
+      Dependencies: {}
+    Info_75:
+      Name: portals45.unity3d
+      Dependencies: {}
+    Info_76:
+      Name: portals51.unity3d
+      Dependencies: {}
+    Info_77:
+      Name: room51.unity3d
+      Dependencies: {}
+    Info_78:
+      Name: portals52.unity3d
+      Dependencies: {}
+    Info_79:
+      Name: room52.unity3d
+      Dependencies: {}
+    Info_80:
+      Name: portals53.unity3d
+      Dependencies: {}
+    Info_81:
+      Name: room53.unity3d
+      Dependencies: {}
+    Info_82:
+      Name: portals541.unity3d
+      Dependencies: {}
+    Info_83:
+      Name: scene541.unity3d
+      Dependencies: {}
+    Info_84:
+      Name: portals542.unity3d
+      Dependencies: {}
+    Info_85:
+      Name: scene542.unity3d
+      Dependencies: {}
+    Info_86:
+      Name: portals543.unity3d
+      Dependencies: {}
+    Info_87:
+      Name: scene543.unity3d
+      Dependencies: {}
+    Info_88:
+      Name: mainscene11.unity3d
+      Dependencies: {}
+    Info_89:
+      Name: portals12.unity3d
+      Dependencies: {}
+    Info_90:
+      Name: mainscene13.unity3d
+      Dependencies: {}
+    Info_91:
+      Name: portals13.unity3d
+      Dependencies: {}
+    Info_92:
+      Name: 010.unity3d
+      Dependencies: {}
+    Info_93:
+      Name: 025.unity3d
+      Dependencies: {}
+    Info_94:
+      Name: 024.unity3d
+      Dependencies: {}
+    Info_95:
+      Name: 023.unity3d
+      Dependencies: {}
+    Info_96:
+      Name: 022.unity3d
+      Dependencies: {}
+    Info_97:
+      Name: 021.unity3d
+      Dependencies: {}
+    Info_98:
+      Name: 026.unity3d
+      Dependencies: {}
+    Info_99:
+      Name: 027.unity3d
+      Dependencies: {}
+    Info_100:
+      Name: 028.unity3d
+      Dependencies: {}
+    Info_101:
+      Name: 029.unity3d
+      Dependencies: {}
+    Info_102:
+      Name: 030.unity3d
+      Dependencies: {}
+    Info_103:
+      Name: 031.unity3d
+      Dependencies: {}
+    Info_104:
+      Name: 032.unity3d
+      Dependencies: {}
+    Info_105:
+      Name: 033.unity3d
+      Dependencies: {}
+    Info_106:
+      Name: 034.unity3d
+      Dependencies: {}
+    Info_107:
+      Name: 035.unity3d
+      Dependencies: {}
+    Info_108:
+      Name: 036.unity3d
+      Dependencies: {}
+    Info_109:
+      Name: 037.unity3d
+      Dependencies: {}
+    Info_110:
+      Name: 038.unity3d
+      Dependencies: {}
+    Info_111:
+      Name: 039.unity3d
+      Dependencies: {}
+    Info_112:
+      Name: 040.unity3d
+      Dependencies: {}
+    Info_113:
+      Name: 041.unity3d
+      Dependencies: {}
+    Info_114:
+      Name: 042.unity3d
+      Dependencies: {}
+    Info_115:
+      Name: 043.unity3d
+      Dependencies: {}
+    Info_116:
+      Name: 044.unity3d
+      Dependencies: {}
+    Info_117:
+      Name: 045.unity3d
+      Dependencies: {}
+    Info_118:
+      Name: 046.unity3d
+      Dependencies: {}
+    Info_119:
+      Name: 047.unity3d
+      Dependencies: {}
+    Info_120:
+      Name: 048.unity3d
+      Dependencies: {}
+    Info_121:
+      Name: 049.unity3d
+      Dependencies: {}
+    Info_122:
+      Name: 050.unity3d
+      Dependencies: {}
+    Info_123:
+      Name: 051.unity3d
+      Dependencies: {}
+    Info_124:
+      Name: 052.unity3d
+      Dependencies: {}
+    Info_125:
+      Name: 053.unity3d
+      Dependencies: {}
+    Info_126:
+      Name: 054.unity3d
+      Dependencies: {}
+    Info_127:
+      Name: 055.unity3d
+      Dependencies: {}
+    Info_128:
+      Name: 056.unity3d
+      Dependencies: {}
+    Info_129:
+      Name: 057.unity3d
+      Dependencies: {}
+    Info_130:
+      Name: 058.unity3d
+      Dependencies: {}
+    Info_131:
+      Name: 059.unity3d
+      Dependencies: {}
+    Info_132:
+      Name: 060.unity3d
+      Dependencies: {}
+    Info_133:
+      Name: 061.unity3d
+      Dependencies: {}
+    Info_134:
+      Name: 062.unity3d
+      Dependencies: {}
+    Info_135:
+      Name: 063.unity3d
+      Dependencies: {}
+    Info_136:
+      Name: 064.unity3d
+      Dependencies: {}
+    Info_137:
+      Name: mainscene23.unity3d
+      Dependencies: {}
+    Info_138:
+      Name: mainscene24.unity3d
+      Dependencies: {}
+    Info_139:
+      Name: 065.unity3d
+      Dependencies: {}
+    Info_140:
+      Name: gengyiroom541.unity3d
+      Dependencies: {}
+    Info_141:
+      Name: geshanroom541.unity3d
+      Dependencies: {}
+    Info_142:
+      Name: zhibanroom541.unity3d
+      Dependencies: {}
+    Info_143:
+      Name: geshanroom542.unity3d
+      Dependencies: {}
+    Info_144:
+      Name: zhibanroom543.unity3d
+      Dependencies: {}

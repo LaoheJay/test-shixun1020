@@ -1,0 +1,4 @@
+id,模型名称,是否存在赋值属性,场景类型
+1,portals11,FALSE,传送带
+2,room11,TRUE,室内
+3,mainscene11,TRUE,室外

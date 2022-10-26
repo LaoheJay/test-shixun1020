@@ -1,0 +1,4 @@
+id,编号,名称,类型,资源路径,简单描述,归属案例
+1,Teach1001,南京上位机操作手册,文档,TeachResources/pdf/123.pdf,南京自动化监控系统操作手册说明,Task1.3
+2,Teach1002,教学视频一,视频,TeachResources/video/video1.mp4,教学讲解视频,Task1.2
+3,Teach1003,门禁系统教学视频,视频,TeachResources/video/门禁系统.mp4,门禁系统教学视频,Task1.3
